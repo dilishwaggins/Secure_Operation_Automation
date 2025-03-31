@@ -1,0 +1,9 @@
+bcrypt
+paramiko
+smtplib
+email
+argparse
+requests
+nmap
+beautifulsoup4
+hashlib
